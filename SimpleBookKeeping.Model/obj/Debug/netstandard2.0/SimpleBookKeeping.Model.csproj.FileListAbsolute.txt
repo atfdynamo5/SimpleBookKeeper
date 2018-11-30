@@ -1,0 +1,9 @@
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\bin\Debug\netstandard2.0\SimpleBookKeeping.Model.deps.json
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\bin\Debug\netstandard2.0\SimpleBookKeeping.Model.dll
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.csprojAssemblyReference.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.AssemblyInfoInputs.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.AssemblyInfo.cs
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\bin\Debug\netstandard2.0\SimpleBookKeeping.Model.pdb
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.dll
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Model\obj\Debug\netstandard2.0\SimpleBookKeeping.Model.pdb

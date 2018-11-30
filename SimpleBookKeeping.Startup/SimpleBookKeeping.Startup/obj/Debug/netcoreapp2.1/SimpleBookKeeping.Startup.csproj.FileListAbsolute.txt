@@ -1,0 +1,14 @@
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.csprojAssemblyReference.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.AssemblyInfoInputs.cache
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.AssemblyInfo.cs
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.dll
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.pdb
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.deps.json
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.runtimeconfig.json
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.runtimeconfig.dev.json
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.dll
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.pdb
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Model.dll
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\bin\Debug\netcoreapp2.1\SimpleBookKeeping.Model.pdb
+C:\Users\Nabil\source\repos\SimpleBookKeeping\SimpleBookKeeping.Startup\SimpleBookKeeping.Startup\obj\Debug\netcoreapp2.1\SimpleBookKeeping.Startup.csproj.CopyComplete
